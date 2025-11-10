@@ -20,7 +20,7 @@ This project is a C++ cheat program for CS2, featuring enemy pointers and radar 
 ### Build Instructions
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/yourrepo.git
+git clone https://github.com/Akaline-tech/Cs2-External-Hack.git
 ```
 2. Open the project in Visual Studio.
 3. Set the build configuration to `Release` or `Debug`.
@@ -56,7 +56,7 @@ This project is licensed under:
 ### 构建指南
 1. 克隆仓库：
 ```bash
-git clone https://github.com/yourusername/yourrepo.git
+git clone https://github.com/Akaline-tech/Cs2-External-Hack.git
 ```
 2. 在 Visual Studio 中打开项目。
 3. 设置构建配置为 `Release` 或 `Debug`。
