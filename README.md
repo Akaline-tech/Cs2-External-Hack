@@ -3,22 +3,19 @@
   <a href="#english">English</a> | <a href="#中文">中文</a>
 </p>
 
-# My C++ Project
-
 ## English
 
 ### Description
-This project is a C++ application that demonstrates overlay rendering, key input handling, and radar visualization.
+This project is a C++ cheat program for CS2, featuring enemy pointers and radar functionality.
 
 ### Features
-- Overlay rendering with transparent background
-- Radar and pointer functionality
-- Edge-triggered key toggles
-
+- pointer
+- Radar
+- 
 ### Requirements
 - Windows OS
 - Visual Studio 2019 or later
-- C++17 support
+- C++17
 
 ### Build Instructions
 1. Clone the repository:
@@ -45,17 +42,16 @@ This project is licensed under:
 ## 中文
 
 ### 项目介绍
-本项目是一个 C++ 应用程序，演示了 Overlay 渲染、按键输入处理和雷达显示功能。
+本项目是一个 Cs2的C++ 作弊程序，拥有敌人指针和雷达功能。
 
 ### 功能
-- 透明背景的 Overlay 渲染
-- 雷达和指针功能
-- 按键边缘触发开关
+- 雷达
+- 敌人指针
 
 ### 依赖要求
 - Windows 系统
 - Visual Studio 2019 或更高版本
-- 支持 C++17
+- C++17
 
 ### 构建指南
 1. 克隆仓库：
