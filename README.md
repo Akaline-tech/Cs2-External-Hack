@@ -11,7 +11,7 @@ This project is a C++ cheat program for CS2, featuring enemy pointers and radar 
 ### Features
 - pointer
 - Radar
-- 
+
 ### Requirements
 - Windows OS
 - Visual Studio 2019 or later
