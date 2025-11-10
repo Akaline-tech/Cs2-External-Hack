@@ -1,3 +1,5 @@
+
+![demo](https://github.com/Akaline-tech/Cs2-External-Hack/raw/main/demo.png)
 ---
 <p align="center">
   <a href="#english">English</a> | <a href="#中文">中文</a>
